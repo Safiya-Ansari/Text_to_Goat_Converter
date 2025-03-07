@@ -1,6 +1,6 @@
 # Text-to-Goat Translator
 
-Check out the live version here: [https://yourwebsite.com](https://yourwebsite.com)
+Check out the live version here: [Link](https://safiya-ansari.github.io/Text_to_Goat_Converter/)
 
 ## About
 Text-to-Goat Translator is a fun web app that converts your text into playful goat-speak (e.g., "baa", "baaa"). It features an interactive gallery where one goat speaks authentic goat-speak while the others deliver humorous English responses.
