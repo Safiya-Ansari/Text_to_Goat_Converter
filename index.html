@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Text-to-Goat Translator</title>
+  <link rel="icon" type="image/png" href="images/ba1.png">
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+
+  <h1>Text-to-Goat Translator</h1>
+
+  <!-- Text area -->
+  <div class="input-row">
+    <div class="left-col">
+      <textarea id="inputText" placeholder="Enter text..."></textarea>
+    </div>
+    <div class="right-col">
+      <button onclick="goatify()">Goatify</button>
+      <p id="output"></p>
+    </div>
+  </div>
+
+  <!-- HEADING ABOVE GALLERY -->
+  <h2>Find the REAL Goat! (Only one speaks in baa baa...)</h2>
+
+  <!-- GALLERY SECTION: 4 images total.  -->
+  <div class="gallery">
+    <!-- Wrong goat #1 -->
+    <img 
+      src="images/ba2.png" 
+      alt="ba2" 
+      data-correct="false"
+      data-pitch="2.0" 
+      data-rate="1.0"
+      data-wrongtext="meein hu Don, niklow"
+    >
+
+    <!-- Correct goat (speaks goat-speak) -->
+    <img 
+      src="images/ba3.png" 
+      alt="ba3" 
+      data-correct="true" 
+      data-pitch="9.0" 
+      data-rate="0.9"
+    >
+
+    <!-- Wrong goat #2 -->
+    <img 
+      src="images/ba4.png" 
+      alt="ba4" 
+      data-correct="false"
+      data-pitch="2.0" 
+      data-rate="1.0"
+      data-wrongtext="Oops!, Get lost"
+    >
+
+    <!-- Wrong goat #3 -->
+    <img 
+      src="images/ba5.png" 
+      alt="ba5" 
+      data-correct="false"
+      data-pitch="2.0" 
+      data-rate="1.0"
+      data-wrongtext="Hah! You think I'm ? daafaa hoo!"
+    >
+  </div>
+
+  <script src="script.js">
+   
+  </script>
+</body>
+</html>
