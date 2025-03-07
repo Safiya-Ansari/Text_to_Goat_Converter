@@ -14,7 +14,7 @@ Text-to-Goat Translator is a fun web app that converts your text into playful go
 - **Responsive Dark Theme:** Sleek design with smooth animations.
 
 ## Video Demo
-Watch the video demonstration here: [Video Demo]([https://www.youtube.com/yourvideo](https://drive.google.com/file/d/1fwvUtoK2aCPIw3bIFG0wqdqqHywT76kP/view?usp=sharing))
+Watch the video demonstration here: [Video Demo](https://drive.google.com/file/d/1fwvUtoK2aCPIw3bIFG0wqdqqHywT76kP/view?usp=sharing)
 
 ## How to Run
 1. Clone the repository:
