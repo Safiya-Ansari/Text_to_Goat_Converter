@@ -123,3 +123,4 @@ if (window.speechSynthesis) {
 } else {
   console.error("Speech Synthesis API not supported in this browser.");
 }
+
